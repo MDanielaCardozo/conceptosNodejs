@@ -1,0 +1,17 @@
+{
+  "name": "conceptosnodejs",
+  "version": "1.0.0",
+  "description": "practica de conceptos de node",
+  "keywords": [
+    "argumentos",
+    "modules",
+    "comandos."
+  ],
+  "license": "ISC",
+  "author": "Daniela Cardozo",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
