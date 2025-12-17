@@ -22,7 +22,6 @@ if(args.length === 2){
         max = maxParse;
     } else {
         console.log("Rango invalido. Usaremos los valores por defecto min=1 y max=100");
-        
     }
 }
 
